@@ -2,7 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>get-task-allow</key>
-    <true/>
+	<key>application-identifier</key>
+	<string>478553BFKW.com.wxf.test1</string>
+	<key>com.apple.developer.team-identifier</key>
+	<string>478553BFKW</string>
+	<key>get-task-allow</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>478553BFKW.com.wxf.test1</string>
+	</array>
 </dict>
 </plist>
